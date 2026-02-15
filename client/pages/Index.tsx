@@ -63,7 +63,7 @@ export default function Index() {
               </h1>
               <p className="text-xl text-foreground/70 max-w-2xl">
                 Master your mindset, build your body, secure your finances, and
-                become the best version of yourself.
+                become the be st version of yourself.
               </p>
             </div>
             <div className="flex gap-4 pt-4">
