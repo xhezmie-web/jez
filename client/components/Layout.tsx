@@ -67,7 +67,7 @@ export default function Layout({ children }: LayoutProps) {
       </aside>
 
       {/* Main Content */}
-      <main className="flex-1 overflow-auto bg-slate-100">{children}</main>
+      <main className="flex-1 overflow-auto" style={{ backgroundColor: 'hsl(270 100% 88%)' }}>{children}</main>
     </div>
   );
 }
