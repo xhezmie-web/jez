@@ -53,7 +53,7 @@ export default function Index() {
 
   return (
     <Layout>
-      <div className="min-h-screen bg-gradient-to-br from-background to-background/95">
+      <div className="min-h-screen">
         {/* Hero Section */}
         <section className="px-8 pt-16 pb-12 lg:px-16 max-w-6xl mx-auto">
           <div className="space-y-6">

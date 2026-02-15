@@ -15,7 +15,7 @@ export default function PagePlaceholder({
 }: PagePlaceholderProps) {
   return (
     <Layout>
-      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-background to-background/95">
+      <div className="min-h-screen flex items-center justify-center">
         <div className="text-center space-y-6 px-6">
           <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto">
             {icon || <Lightbulb className="w-8 h-8 text-primary" />}
